@@ -1,0 +1,8 @@
+# Downloaded datasets and generated outputs
+/data/
+/output/
+*.zip
+*.tar
+*.tar.gz
+*.parquet
+*.mp4
